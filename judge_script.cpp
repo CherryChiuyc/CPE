@@ -1,4 +1,4 @@
-//simple judge
+//Uva1018 Automated Judge Script
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
